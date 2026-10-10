@@ -1,0 +1,10 @@
+{
+  "name": "elham-blossoming-journey",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 scripts/serve.py --port 3000",
+    "test": "node --test tests/*.test.js"
+  }
+}

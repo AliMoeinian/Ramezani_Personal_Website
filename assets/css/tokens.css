@@ -1,0 +1,4 @@
+@font-face{font-family:Vazirmatn;src:url('../fonts/Vazirmatn-Regular.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:Vazirmatn;src:url('../fonts/Vazirmatn-Bold.woff2') format('woff2');font-weight:700;font-display:swap}
+@font-face{font-family:Lalezar;src:url('../fonts/Lalezar-Regular.woff2') format('woff2');font-weight:400;font-display:swap}
+:root{--cream:#FFFDF8;--sea:#2EC4B6;--coral:#FF7B6B;--sun:#FFD166;--mint:#BFF0D4;--ink:#12403C;--blush:#FFD3DA;--lavender:#D9CCFF;--peach:#FFCBA4;--line:#D9E6DC;--muted:#506D61;--ease-bloom:cubic-bezier(.2,1.5,.5,1)}
